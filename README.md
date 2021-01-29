@@ -1,8 +1,4 @@
 
-Your code in a Github repository with a README file explaining its use for each of the 4 parts within this assignment. You can have multiple python files (like 4, 1 for each part) or just one main file if you prefer, as far as you always have one main python file that executes all your code, so we can verify it works. You need to share it with users: gsclara and liberostelios.
-
-
-
 A1.
 Change path to local directory
 Compute mean, variance and std for all variables
